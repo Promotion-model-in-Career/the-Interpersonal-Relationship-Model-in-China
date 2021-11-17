@@ -37,9 +37,18 @@ Type D
     技能升华
     
     自己利益最为重要
+    
+负面打压
 
-![image](https://user-images.githubusercontent.com/17419617/142200617-b1f5277d-0f20-4e81-b9da-167e7f41b29b.png)
-![image](https://user-images.githubusercontent.com/17419617/142200661-f1298505-16ea-47ef-80d0-f19224de5e63.png)
+![image](https://user-images.githubusercontent.com/17419617/142201280-b29e7920-6228-4439-8f49-5d1053426aeb.png)
+![image](https://user-images.githubusercontent.com/17419617/142201394-a8902fbe-eb47-463c-aa8c-d961b0aec054.png)
+
+正面帮助
+
+![image](https://user-images.githubusercontent.com/17419617/142201455-225ad020-1d0a-4fc2-bf56-086d2083aad8.png)
+![image](https://user-images.githubusercontent.com/17419617/142201526-e83e1223-f603-431c-80df-363c13ccd84a.png)
+
+
 
 中层人际模型
 
