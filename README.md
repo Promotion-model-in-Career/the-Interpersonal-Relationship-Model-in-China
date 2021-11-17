@@ -46,7 +46,8 @@ Type D
 正面帮助
 
 ![image](https://user-images.githubusercontent.com/17419617/142201455-225ad020-1d0a-4fc2-bf56-086d2083aad8.png)
-![image](https://user-images.githubusercontent.com/17419617/142201526-e83e1223-f603-431c-80df-363c13ccd84a.png)
+![image](https://user-images.githubusercontent.com/17419617/142202499-7f313994-9ab5-414d-bd70-d46a47d09249.png)
+
 
     中层包括EF两种基本人格属性。
 
