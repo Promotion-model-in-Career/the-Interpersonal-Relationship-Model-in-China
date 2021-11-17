@@ -56,8 +56,6 @@ Type D
 Type E
 
 ![image](https://user-images.githubusercontent.com/17419617/142200780-328dec5e-42cc-4fdc-90d0-40d81cc5e9d1.png)
-![image](https://user-images.githubusercontent.com/17419617/142200820-2784e7cc-550e-45f3-8e89-752d2297c4d6.png)
-![image](https://user-images.githubusercontent.com/17419617/142200882-b827314f-4ce5-4612-8517-7a6a8bdccdc8.png)
 ![image](https://user-images.githubusercontent.com/17419617/142200922-564aad77-732d-4536-b081-9f15edb5da70.png)
 
 Type F
