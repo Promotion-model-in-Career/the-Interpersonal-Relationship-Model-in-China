@@ -2,7 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/17419617/142199545-c2870e70-458b-413c-b971-9fa2d7f75d3a.png)
 
-基本属性可以分为打压（消极）与帮助（积极）两个大类。底层可以分为ABCD四种基本人格属性。
+基本属性可以分为打压（消极）与帮助（积极）两个大类。
+
+    底层包括ABCD四种基本人格属性。
 
 Type A
 
@@ -46,9 +48,7 @@ Type D
 ![image](https://user-images.githubusercontent.com/17419617/142201455-225ad020-1d0a-4fc2-bf56-086d2083aad8.png)
 ![image](https://user-images.githubusercontent.com/17419617/142201526-e83e1223-f603-431c-80df-363c13ccd84a.png)
 
-
-
-中层人际模型
+    中层包括EF两种基本人格属性。
 
 ![image](https://user-images.githubusercontent.com/17419617/142200740-92344722-0e72-4171-9a38-ee510edd51bf.png)
 
