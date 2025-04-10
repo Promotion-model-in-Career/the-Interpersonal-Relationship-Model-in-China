@@ -62,3 +62,5 @@ Type F
 
 ![image](https://user-images.githubusercontent.com/17419617/142200970-fc8182f5-ea88-4ef3-9883-dc3503571fe8.png)
 ![image](https://user-images.githubusercontent.com/17419617/142201014-0e79356a-f15d-475a-bb1c-fba004026771.png)
+
+这六个模型，只是基础框架，同时也可以从多个维度进行扩展。
